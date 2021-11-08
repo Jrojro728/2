@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+
 int a(int x, int y);
 int b(int x, int y);
 
